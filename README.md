@@ -85,9 +85,9 @@ const addTwoNumbers = (x, y) => {
 
 
 ### Day 7: 23 Dec 2017
-**Goals:**
+**Goals:** learn how to use more array method like `// Some and Every Checks` and `Array.prototype.find()` and `Array.prototype.findIndex()` and deleting with `splice` and `slice`.
 
-**Things learnt:**
+**Things learnt:** Array are very important in JavaScript and playing with the Array class taught me how to find and filter + deleting is cool.
 ![Day 7 of 30](https://pbs.twimg.com/media/C07gdtqUAAAtlyM.jpg)
 
 ### Day 8: 24 Dec 2017
