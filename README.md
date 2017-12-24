@@ -20,7 +20,7 @@ Thanks!
 
 ## LOGS
 
-> **Note** the _Key_ to the Log
+> **Note** the _Key_ to the Log<br>
 > **Goals:** The original plan for the course from @wesbos. <br>
 > **Things learnt:** My personal take away from the lesson.<br>
 > **Note:** Something worth noting from the lesson. A special mention.<br>
@@ -71,9 +71,18 @@ const addTwoNumbers = (x, y) => {
 
 
 ### Day 6: 22 Dec 2017
-**Goals:**
+**Goals:** fetch data from an endpoint, search the data using regular expression and output data to an existing `ul` via `li` . It features some nice typing and filtering that is neat.
 
-**Things learnt:**
+**Things learnt:** worked with fetch api for the first time plus some regExp and filtering. 
+
+**Tool Found:** A function that returns numbers with comma if passed with number without comma <br>
+
+ ```js
+  function numberWithCommas(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+}
+ ```
+
 
 ### Day 7: 23 Dec 2017
 **Goals:**
